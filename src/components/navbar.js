@@ -10,6 +10,7 @@ function Navbar() {
                 <li><a href="#"><i class="far fa-envelope"></i></a></li>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Contact</a></li>
+                <li><a href="#">Hello</a></li>
             </ul>
         </div>
     )
