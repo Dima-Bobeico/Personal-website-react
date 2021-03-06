@@ -1,13 +1,15 @@
-import React from 'react'
-import Navbar from './components/navbar'
+import React from "react"
+import Navbar from "./components/navbar"
 
 function About() {
-  return(
+  return (
     <div>
-    <Navbar />
-    <div className="about">
-      <p>Hi, <br /> my name is Dumitru Bobeico. I am passionate about programming and drawing.</p>
-    </div>
+      <div className="about">
+        <p>
+          Hi, <br /> my name is Dumitru Bobeico. I am
+          passionate about programming and drawing.
+        </p>
+      </div>
     </div>
   )
 }
