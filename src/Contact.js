@@ -6,11 +6,8 @@ function Contact() {
     <div>
       <div class="container">
         <label for="mailname">
-          <i
-            className="email-logo"
-            class="fas fa-globe-americas"
-          ></i>{" "}
-          STAY UP TO DATE:
+          <i class="fas fa-globe-americas"></i> STAY UP TO
+          DATE:
         </label>
         <br />
         <input type="text" placeholder="Email Address" />
